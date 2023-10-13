@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "./static/css/main.d2df15b0.css",
+    "main.js": "./static/js/main.5d3aeba3.js",
+    "static/js/787.a007312b.chunk.js": "./static/js/787.a007312b.chunk.js",
+    "static/media/back.png": "./static/media/back.df260368f57847157ba3.png",
+    "static/media/header-back.png": "./static/media/header-back.54fb217c280aaeb473df.png",
+    "static/media/pic2.jpg": "./static/media/pic2.3d88b38172d9921d6c01.jpg",
+    "static/media/contacts.png": "./static/media/contacts.5f44519e148328224a9d.png",
+    "static/media/pic3.jpg": "./static/media/pic3.fea24665de76d1bb2328.jpg",
+    "static/media/pic1.jpg": "./static/media/pic1.f970d8f6f699829d88af.jpg",
+    "static/media/Best in business.gif": "./static/media/Best in business.32911f1b8a623149479e.gif",
+    "index.html": "./index.html",
+    "main.d2df15b0.css.map": "./static/css/main.d2df15b0.css.map",
+    "main.5d3aeba3.js.map": "./static/js/main.5d3aeba3.js.map",
+    "787.a007312b.chunk.js.map": "./static/js/787.a007312b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2df15b0.css",
+    "static/js/main.5d3aeba3.js"
+  ]
+}
